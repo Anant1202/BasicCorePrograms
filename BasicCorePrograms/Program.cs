@@ -9,8 +9,10 @@ namespace BasicCorePrograms
             Console.WriteLine("Welcome to Basic Core Programs");
             //FlipCoin obj1= new FlipCoin();
             //obj1.Percentage();
-            LeapYear ob2 = new LeapYear();
-            ob2.checkingLeapYear();
+            //LeapYear ob2 = new LeapYear();
+            //ob2.checkingLeapYear();
+            Powerof2 ob3 = new Powerof2();
+            ob3.calculatingPower();
 
         }
 
