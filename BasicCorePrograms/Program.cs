@@ -11,9 +11,10 @@ namespace BasicCorePrograms
             //obj1.Percentage();
             //LeapYear ob2 = new LeapYear();
             //ob2.checkingLeapYear();
-            Powerof2 ob3 = new Powerof2();
-            ob3.calculatingPower();
-
+          //Powerof2 ob3 = new Powerof2();
+          //ob3.calculatingPower();
+            HarmonicNumber ob4=new HarmonicNumber();
+            ob4.harmonicValue();
         }
 
     }
