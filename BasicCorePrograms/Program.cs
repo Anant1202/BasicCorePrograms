@@ -21,8 +21,10 @@ namespace BasicCorePrograms
             //ob6.Compute();
             //Swap ob7= new Swap();
             //ob7.swapTwoNumber();
-            EvenOdd ob8= new EvenOdd();
-            ob8.check();
+            //EvenOdd ob8= new EvenOdd();
+            //ob8.check();
+            VowelOrConsonant ob9=new VowelOrConsonant();
+            ob9.checkAlphabet();
 
         }
 
