@@ -19,8 +19,10 @@ namespace BasicCorePrograms
             //ob5.findingPrimeFactors();
             //QuotientAndRemainder ob6= new QuotientAndRemainder();
             //ob6.Compute();
-            Swap ob7= new Swap();
-            ob7.swapTwoNumber();
+            //Swap ob7= new Swap();
+            //ob7.swapTwoNumber();
+            EvenOdd ob8= new EvenOdd();
+            ob8.check();
 
         }
 
