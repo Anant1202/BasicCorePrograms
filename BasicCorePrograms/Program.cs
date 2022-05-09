@@ -13,8 +13,11 @@ namespace BasicCorePrograms
             //ob2.checkingLeapYear();
           //Powerof2 ob3 = new Powerof2();
           //ob3.calculatingPower();
-            HarmonicNumber ob4=new HarmonicNumber();
-            ob4.harmonicValue();
+            //HarmonicNumber ob4=new HarmonicNumber();
+            //ob4.harmonicValue();
+            PrimeFactor ob5 = new PrimeFactor();
+            ob5.findingPrimeFactors();
+
         }
 
     }
