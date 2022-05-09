@@ -15,8 +15,10 @@ namespace BasicCorePrograms
           //ob3.calculatingPower();
             //HarmonicNumber ob4=new HarmonicNumber();
             //ob4.harmonicValue();
-            PrimeFactor ob5 = new PrimeFactor();
-            ob5.findingPrimeFactors();
+            //PrimeFactor ob5 = new PrimeFactor();
+            //ob5.findingPrimeFactors();
+            QuotientAndRemainder ob6= new QuotientAndRemainder();
+            ob6.Compute();
 
         }
 
