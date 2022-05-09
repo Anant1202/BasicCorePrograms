@@ -17,8 +17,10 @@ namespace BasicCorePrograms
             //ob4.harmonicValue();
             //PrimeFactor ob5 = new PrimeFactor();
             //ob5.findingPrimeFactors();
-            QuotientAndRemainder ob6= new QuotientAndRemainder();
-            ob6.Compute();
+            //QuotientAndRemainder ob6= new QuotientAndRemainder();
+            //ob6.Compute();
+            Swap ob7= new Swap();
+            ob7.swapTwoNumber();
 
         }
 
